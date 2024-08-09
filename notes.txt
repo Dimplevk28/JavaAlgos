@@ -2,3 +2,5 @@ Creating new file for github tut
 
 
 adding new commit for demo 
+
+adding git stash command 
